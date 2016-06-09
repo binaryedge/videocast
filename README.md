@@ -1,6 +1,8 @@
 # BinaryEdge Videocast
 Here you can find code, links and notes from the Binaryedge Videocast
 https://binaryedge.io
+
+
 Episode 1:
 
     * Tiago Henriques - Mainframes and entertainment systems found on the internet.
