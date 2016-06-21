@@ -3,7 +3,7 @@ Here you can find code, links and notes from the Binaryedge Videocast
 https://binaryedge.io
 
 
-Episode 1:
+Episode 1: https://youtu.be/w9HmtM8KI-w
 
     * Tiago Henriques - Mainframes and entertainment systems found on the internet.
 
@@ -13,7 +13,7 @@ Episode 1:
     
     * Ana Barbosa - Python vs. R - A personal perspective from a person with no programming background.
 
-Episode 2:
+Episode 2: https://youtu.be/j3DK7W13hFY
 
     * Florentino Bexiga - Image similarity with python and hashing
 
