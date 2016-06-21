@@ -12,3 +12,12 @@ Episode 1:
     * Joao Veiga - Introduction to GO.
     
     * Ana Barbosa - Python vs. R - A personal perspective from a person with no programming background.
+
+Episode 2:
+
+    * Florentino Bexiga - Image similarity with python and hashing
+
+    * Ines Barros - Correlation between colors and emotions
+
+    * Marco Silva - Book suggestions for people wanting to work with microservices
+    
