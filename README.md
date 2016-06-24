@@ -21,3 +21,10 @@ Episode 2: https://youtu.be/j3DK7W13hFY
 
     * Marco Silva - Book suggestions for people wanting to work with microservices
     
+Episode 3: https://youtu.be/9te-FCEqT_s
+
+    * Tiago Martins - Working remotely in software development
+
+    * Joao Veiga - API design
+
+    * Tiago Henriques - Machine learning in infosec and cybersecurity, and how to get into datascience
